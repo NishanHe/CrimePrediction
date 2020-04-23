@@ -2,7 +2,8 @@
 Using criminal data in San Francisco from Kaggle, predicting criminal and crime type possibilities 
 
 ## Source
-Problem descriptin and dataset from [San Francisco](https://www.kaggle.com/c/sf-crime)
+Problem descriptin and dataset from [San Francisco Crime Classification Competition](https://www.kaggle.com/c/sf-crime)
+
 Target variable: Category (type of crime)
 
 ## Method used
